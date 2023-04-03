@@ -8,4 +8,6 @@
 - [Processori](./componenti/processori.md)
 - [Schede_Madri](./componenti/schede_madri.md)
 
+## Periferiche
+
 Elettronica Padovana
